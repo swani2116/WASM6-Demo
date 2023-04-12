@@ -7,6 +7,7 @@ public class DemoTest {
 	public void demo()
 	{
 		System.out.println("Hi This is wasm 6 Framework!!!");
+		System.out.println("hi demo");
 	}
 
 }
