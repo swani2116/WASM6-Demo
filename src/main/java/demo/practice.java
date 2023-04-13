@@ -9,6 +9,7 @@ public class practice {
 		System.out.println("hii ram ");
 		System.out.println("hope u r doing well");
 		System.out.println("prac created");
+		System.out.println("prac working fine");
 	}
 
 }
